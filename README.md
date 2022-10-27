@@ -1,6 +1,6 @@
 # bloctest
 
-A new Flutter project.
+Just BLoC test | BLoC 8.1.1
 
 ## Getting Started
 
